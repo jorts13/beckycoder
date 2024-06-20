@@ -11,7 +11,7 @@ body {
 }
 
 #title {
-    font-size: 15rem;
+    font-size: 10rem;
     letter-spacing: -2px;
     cursor: pointer;
     z-index: 1;
