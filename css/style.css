@@ -5,13 +5,13 @@ body {
     background-color: aliceblue;
     overflow: hidden;
     align-items:center;
-    height: 15vh;
+    height: 5vh;
     line-height: 1.8;
 
 }
 
 #title {
-    font-size: 10rem;
+    font-size: 5rem;
     letter-spacing: -2px;
     cursor: pointer;
     z-index: 1;
