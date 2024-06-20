@@ -5,20 +5,20 @@ body {
     background-color: aliceblue;
     overflow: hidden;
     align-items:center;
-    height: 100vh;
+    height: 15vh;
     line-height: 1.8;
 
 }
 
 #title {
-    font-size: 75rem;
+    font-size: 15rem;
     letter-spacing: -2px;
     cursor: pointer;
     z-index: 1;
 }
 
 .title-small {
-    font-size: 30rem;
+    font-size: 10rem;
     letter-spacing: -2px;
     width: calc(100vw - 100px);
 }
